@@ -128,7 +128,7 @@
    <v-icon left>label</v-icon>CI/CD</v-chip>
         <span><v-chip outline color="orange">CircleCI</v-chip></span>
         <span><v-chip outline color="green">GitlabCI</v-chip></span>
-        <span><v-chip outline color="green">Jenkins</v-chip></span><br>
+        <span><v-chip outline color="green">JenkinsCI</v-chip></span><br>
         <v-chip label color="grey darken-1" text-color="white">
    <v-icon left>label</v-icon>Cloud</v-chip>
         <span><v-chip outline color="red">AWS</v-chip></span>
