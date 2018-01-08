@@ -76,7 +76,7 @@ export default {
           title: '7 Crypo-currencies to watch out for in 2018!',
           content: 'The crypto world is booming humungously! In my opinion, I feel this is one giant bubble paving its way to explode just like the market crash in 2008 or the fall of the dotcom revolution. However it doesnt hurt to make some money considering the bubble wont burst for another 20 years. Bitcoin seems to be the obvious choice to buy since it is the father of all crypto and too good to fall down any sooner while Etherium being the second best choice and Litecoin to follow. However, if you dont want to spend big bucks but still root for your future by investing in some interesting alt coins, take a sneak peek at this article. I bet my money on Cardano(Ada)  ',
           imgUrl: 'http://bottomstack.com/wp-content/uploads/2017/07/cryptocurrency.jpg',
-          originalSourcetital: 'Crypocurrencies in 2k18!',
+          originalSourcetital: 'Crypocurrencies in 2018!',
           originalSource: 'https://www.marketwatch.com/story/7-cryptocurrencies-to-watch-in-2018-if-youre-on-the-hunt-for-the-next-bitcoin-2017-12-12'
         },
         {
